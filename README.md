@@ -5,7 +5,7 @@
 
 # 資料來源
 - [DNA genome](https://www.ncbi.nlm.nih.gov/nuccore/NC_045512)
-- [spike glycoprotein](gene ID:https://www.ncbi.nlm.nih.gov/gene/43740568)
+- [spike glycoprotein](https://www.ncbi.nlm.nih.gov/gene/43740568)
 - [genome bank](https://www.ncbi.nlm.nih.gov/datasets/coronavirus/genomes)
 
 # 有關疫苗
